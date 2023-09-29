@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dylando22 I got to Utah State and I am studying computer science
-- 👀 I’m interested in Cyber Security, Soccer, Spanish and all things hacking
-- 🌱 I’m currently learning Java, Python, C++, Web Developement, Operating systems, and more
+- 👋 Hi, I’m @Dylando22 I am about to graduate from Utah State with a bachelors in computer science
+- 👀 I’m interested in Full Stack Web Development, Soccer, Spanish and all things hacking
+- 🌱 I’m currently learning Java, Python, C++, Web Developement, Operating systems, Node.js, React.js, PostgreSQL and more
 - 💞️ I’m looking to collaborate on anything fun and exciting
 - 📫 You can reach me at dyl2elite@gmail.com
 
